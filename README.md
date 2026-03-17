@@ -8,7 +8,8 @@ The goal was to build a scalable streaming architecture that can capture live ev
 ## Architecture
 **Flow:** Stock API / Python Producer -> Kafka Topic -> Spark Structured Streaming -> AWS S3
 
-![Architecture Diagram](images/architecture_diagram.png)  
+
+<img width="1536" height="1024" alt="Real_Time_stock_streaming" src="https://github.com/user-attachments/assets/c261fa58-bbab-4a0e-b3c3-25cbe0e5892c" />
 
 
 **Technologies Used**
